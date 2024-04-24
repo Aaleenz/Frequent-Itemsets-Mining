@@ -1,19 +1,21 @@
 # Frequent-Itemsets-Mining
 This repository contains the code and documentation for the Fundamental of Big Data Analytics course assignment focused on analyzing Amazon metadata. In this assignment, we performed preprocessing on the metadata and implemented various algorithms using Apache Kafka for data streaming.
-#Project Overview
+# Project Overview
 
 The project comprises the following components:
 
-    Metadata Preprocessing: Initial preprocessing of Amazon metadata to prepare it for further analysis.
+    Metadata Preprocessing: 
+    Initial preprocessing of Amazon metadata to prepare it for further analysis.
 
-    Apache Kafka Integration: Utilized Apache Kafka to stream the preprocessed data to multiple consumers.
+    Apache Kafka Integration: 
+    Utilized Apache Kafka to stream the preprocessed data to multiple consumers.
 
     Consumers:
         Apriori Algorithm Implementation: Implemented the Apriori algorithm to find frequent itemsets in the streamed data.
         PCY Algorithm Implementation: Implemented the PCY (Park Chen Yu) algorithm to efficiently mine frequent itemsets.
         Brand Association Analysis: Identified and printed the brands most commonly associated with products viewed or bought by users.
 
-#Why This Approach?
+# Why This Approach?
 
 We chose this approach for several reasons:
 
