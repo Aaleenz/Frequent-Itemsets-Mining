@@ -3,17 +3,14 @@ This repository contains the code and documentation for the Fundamental of Big D
 # Project Overview
 
 The project comprises the following components:
-
-    Metadata Preprocessing: 
-    Initial preprocessing of Amazon metadata to prepare it for further analysis.
-
-    Apache Kafka Integration: 
-    Utilized Apache Kafka to stream the preprocessed data to multiple consumers.
-
-    Consumers:
-        Apriori Algorithm Implementation: Implemented the Apriori algorithm to find frequent itemsets in the streamed data.
-        PCY Algorithm Implementation: Implemented the PCY (Park Chen Yu) algorithm to efficiently mine frequent itemsets.
-        Brand Association Analysis: Identified and printed the brands most commonly associated with products viewed or bought by users.
+## Metadata Preprocessing: 
+Initial preprocessing of Amazon metadata to prepare it for further analysis.
+## Apache Kafka Integration: 
+Utilized Apache Kafka to stream the preprocessed data to multiple consumers.
+## Consumers:
+Apriori Algorithm Implementation: Implemented the Apriori algorithm to find frequent itemsets in the streamed data.
+PCY Algorithm Implementation: Implemented the PCY (Park Chen Yu) algorithm to efficiently mine frequent itemsets.
+Brand Association Analysis: Identified and printed the brands most commonly associated with products viewed or bought by users.
 
 # Why This Approach?
 
