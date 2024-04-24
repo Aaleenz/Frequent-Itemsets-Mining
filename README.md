@@ -25,3 +25,8 @@ Implementing different algorithms as separate consumers allows for modular devel
 By implementing both classic (Apriori) and more optimized (PCY) algorithms, we can compare their performance and effectiveness in mining frequent itemsets from the data stream.
 ## Practical Application: 
 Analyzing user-product interactions and identifying common brand associations has practical applications in e-commerce for targeted marketing, product recommendations, and inventory management.
+
+# Contributors
+Aaleen Zainab
+Tooba Arshad
+Asma Riaz
